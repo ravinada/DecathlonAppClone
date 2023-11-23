@@ -1,9 +1,11 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
+
     <style name="Theme.Splash" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowBackground">@drawable/splash_background</item>
     </style>
+
     <!-- Base application theme. -->
-    <style name="Theme.RioMoneyAssignment" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.RioMoneyAssignment" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/lochmara</item>
         <item name="colorPrimaryVariant">@color/lochmara</item>
