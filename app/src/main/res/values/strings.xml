@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Decathlon</string>
+    <string name="home">Home</string>
+    <string name="sport">Sport</string>
+    <string name="scan">Scan</string>
+    <string name="notifications">Notifications</string>
+    <string name="account">Account</string>
+    <string name="price_format">₹%s</string>
+    <string name="dummy_location_text">Delivery Location %s %s</string>
+    <string name="dummy_location_pinCode">395006</string>
+    <string name="search">"Search "</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sort_by_price">Sort By Price</string>
+    <string name="change">CHANGE</string>
+</resources>

@@ -1,0 +1,97 @@
+# Built application files
+*.apk
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Gradle files
+.gradle/
+/build/
+/captures/
+
+# Local configuration file (e.g., proguard-rules.pro)
+proguard-rules.pro
+
+# Android Studio
+.idea/
+/*.iml
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/dictionaries
+
+# External JARs
+libs/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Build system metadata
+captures/
+navigation/
+
+# Intellij
+*.iml
+*.iws
+*.iws
+*.ipr
+
+# User-specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+
+# Log files
+*.log
+
+# Android Profiler
+profiler/
+
+# Android Studio Navigation editor
+.navigation/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+fastlane/readme.md
+
+# Flutter
+build/
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Flutter.podspec
+ios/Flutter/flutter_export_environment.sh
+
+# Keystore files
+*.jks
+
+# Firebase files
+google-services.json
+
+# Crashlytics
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# SonarQube
+.sonar/
+
+# Lint
+lint/ 
+
+# Facebook / Fresco
+.fresco/
+
+# Navigation directory
+.navigation/

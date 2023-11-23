@@ -1,0 +1,27 @@
+<!-- res/menu/bottom_nav_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home" />
+
+    <item
+        android:id="@+id/menu_sport"
+        android:title="@string/sport"
+        android:icon="@drawable/ic_sport" />
+
+    <item
+        android:id="@+id/menu_scan"
+        android:title="@string/scan"
+        android:icon="@drawable/ic_scan" />
+
+    <item
+        android:id="@+id/menu_notifications"
+        android:title="@string/notifications"
+        android:icon="@drawable/ic_notifications" />
+
+    <item
+        android:id="@+id/menu_account"
+        android:title="@string/account"
+        android:icon="@drawable/ic_account" />
+</menu>
