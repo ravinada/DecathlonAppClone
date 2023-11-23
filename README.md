@@ -19,10 +19,17 @@ The Decathlon Clone App is an Android application designed to manage and display
 - Splash Theme: A splash screen with a custom theme is displayed during app launch to provide a polished user experience.
 
 ## Screenshots
-<img src="https://github.com/ravinada/DecathlonAppClone/assets/49580276/3ccfdd3a-7cd9-415a-97b3-726ae367869f" width="425" height="1000"> <img src="https://github.com/ravinada/DecathlonAppClone/assets/49580276/234028d4-1f78-4efd-b991-fccf77e00d02" width="425" height="1000">
-<img src="https://github.com/ravinada/DecathlonAppClone/assets/49580276/45b56294-1dd6-45c7-b6e5-ca505f5e8dbf" width="425" height="1000"> <img src="https://github.com/ravinada/DecathlonAppClone/assets/49580276/72810fd1-2a1b-4bfb-b57d-98ca86a5f288" width="425" height="1000">
-<img src="https://github.com/ravinada/DecathlonAppClone/assets/49580276/e51146ad-b635-4a32-b64e-ea3256aa5af6" width="425" height="1000">
-
+<table>
+  <tr>
+    <td><img src="https://github.com/ravinada/DecathlonAppClone/assets/49580276/3ccfdd3a-7cd9-415a-97b3-726ae367869f" width=270 height=480></td>
+    <td><img src="https://github.com/ravinada/DecathlonAppClone/assets/49580276/234028d4-1f78-4efd-b991-fccf77e00d02" width=270 height=480></td>
+    <td><img src="https://github.com/ravinada/DecathlonAppClone/assets/49580276/45b56294-1dd6-45c7-b6e5-ca505f5e8dbf" width=270 height=480></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/ravinada/DecathlonAppClone/assets/49580276/72810fd1-2a1b-4bfb-b57d-98ca86a5f288" width=270 height=480></td>
+    <td><img src="https://github.com/ravinada/DecathlonAppClone/assets/49580276/e51146ad-b635-4a32-b64e-ea3256aa5af6" width=270 height=480></td>
+  </tr>
+ </table>
 
 ## Getting Started
 
